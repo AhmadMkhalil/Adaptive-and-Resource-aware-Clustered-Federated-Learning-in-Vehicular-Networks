@@ -1,6 +1,12 @@
 # Driving Towards Efficiency: Adaptive Resource-Aware Clustered Federated Learning in Vehicular Networks
 
-Welcome to the official GitHub repository for the paper **"Driving Towards Efficiency: Adaptive Resource-Aware Clustered Federated Learning in Vehicular Networks"**. This repository will host the implementation of the methods and experiments discussed in the paper, once the source code is finalized.
+The official GitHub repository for the paper **"Driving Towards Efficiency: Adaptive Resource-Aware Clustered Federated Learning in Vehicular Networks,"** published at the 2024 22nd Mediterranean Communication and Computer Networking Conference (MedComNet). 
+
+This repository will serve as a comprehensive resource for the implementation of the methods and experiments detailed in the paper. You can access the paper [here](https://ieeexplore.ieee.org/abstract/document/10578208).
+
+We aim to provide the finalized source code here, allowing researchers and practitioners to explore, replicate, and build upon our work. 
+
+Stay tuned for updates as we finalize the code and related materials!
 
 ## Citation
 
@@ -20,9 +26,5 @@ If you are interested in citing this work, please use the following reference:
 ## Contact
 
 For any questions or further inquiries, please contact the lead author:  
-**Dr. Ahmad Khalil**  
+**Ahmad Khalil** 
 Email: [dr.ing.ahmad.khalil@gmail.com](mailto:dr.ing.ahmad.khalil@gmail.com)
-
----
-
-The source code will be uploaded soon. Stay tuned for updates!
